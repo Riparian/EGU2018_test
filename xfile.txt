@@ -1,5 +1,8 @@
 git init
 git status
 #
+ >> I also add come change here on the branch
 I make some change
 more changes
+
+Now I make some changes on the branch.
